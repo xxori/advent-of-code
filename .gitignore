@@ -1,4 +1,11 @@
+venv
 *.beam
 *.ez
 /build
 erl_crash.dump
+
+
+# Added by cargo
+
+/target
+**/target/
